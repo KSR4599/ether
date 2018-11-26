@@ -1,0 +1,16 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "K$R",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mocha-cli": "^1.0.1",
+    "solc": "^0.4.25"
+  }
+}
